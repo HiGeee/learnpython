@@ -9,3 +9,5 @@ git is a funny tool
 
 
 to prove the branch is useable
+
+to prove the branch is useless
